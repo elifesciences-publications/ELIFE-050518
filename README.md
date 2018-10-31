@@ -1,3 +1,8 @@
+
+
+
+### This code is associated with the paper from Azimi et al., "Combinatorial programming of human neuronal progenitors using magnetically-guided stoichiometric mRNA delivery". eLife, 2018. http://dx.doi.org/10.7554/eLife.31922
+
 Elife Source code
 
 Control the stage for the progamming mulitple the plates. 
